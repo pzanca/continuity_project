@@ -1,0 +1,2 @@
+data/full_data.csv filter=lfs diff=lfs merge=lfs -text
+data/gamelogs_all.csv filter=lfs diff=lfs merge=lfs -text
